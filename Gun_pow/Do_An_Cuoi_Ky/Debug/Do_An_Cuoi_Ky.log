@@ -1,0 +1,32 @@
+﻿  ThreatObject.cpp
+C:\Users\84918\Desktop\hk3 năm 1\OOP\Do_An\Gun_pow\Do_An_Cuoi_Ky\ThreatObject.cpp(5,25): warning C4244: '=': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\84918\Desktop\hk3 năm 1\OOP\Do_An\Gun_pow\Do_An_Cuoi_Ky\ThreatObject.cpp(43,47): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\84918\Desktop\hk3 năm 1\OOP\Do_An\Gun_pow\Do_An_Cuoi_Ky\ThreatObject.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\84918\Desktop\hk3 năm 1\OOP\Do_An\Gun_pow\Do_An_Cuoi_Ky\ThreatObject.cpp(60,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\84918\Desktop\hk3 năm 1\OOP\Do_An\Gun_pow\Do_An_Cuoi_Ky\ThreatObject.cpp(71,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\84918\Desktop\hk3 năm 1\OOP\Do_An\Gun_pow\Do_An_Cuoi_Ky\ThreatObject.cpp(81,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\84918\Desktop\hk3 năm 1\OOP\Do_An\Gun_pow\Do_An_Cuoi_Ky\ThreatObject.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\84918\Desktop\hk3 năm 1\OOP\Do_An\Gun_pow\Do_An_Cuoi_Ky\ThreatObject.cpp(91,34): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+BaseObject.obj : warning LNK4006: "struct SDL_Surface * g_screen" (?g_screen@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+BaseObject.obj : warning LNK4006: "struct SDL_Surface * g_background" (?g_background@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+BaseObject.obj : warning LNK4006: "union SDL_Event g_even" (?g_even@@3TSDL_Event@@A) already defined in AmoObject.obj; second definition ignored
+BaseObject.obj : warning LNK4006: "struct SDL_Surface * g_object" (?g_object@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+Main.obj : warning LNK4006: "struct SDL_Surface * g_screen" (?g_screen@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+Main.obj : warning LNK4006: "struct SDL_Surface * g_background" (?g_background@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+Main.obj : warning LNK4006: "union SDL_Event g_even" (?g_even@@3TSDL_Event@@A) already defined in AmoObject.obj; second definition ignored
+Main.obj : warning LNK4006: "struct SDL_Surface * g_object" (?g_object@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+MainObject.obj : warning LNK4006: "struct SDL_Surface * g_screen" (?g_screen@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+MainObject.obj : warning LNK4006: "struct SDL_Surface * g_background" (?g_background@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+MainObject.obj : warning LNK4006: "union SDL_Event g_even" (?g_even@@3TSDL_Event@@A) already defined in AmoObject.obj; second definition ignored
+MainObject.obj : warning LNK4006: "struct SDL_Surface * g_object" (?g_object@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+Source.obj : warning LNK4006: "struct SDL_Surface * g_screen" (?g_screen@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+Source.obj : warning LNK4006: "struct SDL_Surface * g_background" (?g_background@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+Source.obj : warning LNK4006: "union SDL_Event g_even" (?g_even@@3TSDL_Event@@A) already defined in AmoObject.obj; second definition ignored
+Source.obj : warning LNK4006: "struct SDL_Surface * g_object" (?g_object@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+ThreatObject.obj : warning LNK4006: "struct SDL_Surface * g_screen" (?g_screen@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+ThreatObject.obj : warning LNK4006: "struct SDL_Surface * g_background" (?g_background@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+ThreatObject.obj : warning LNK4006: "union SDL_Event g_even" (?g_even@@3TSDL_Event@@A) already defined in AmoObject.obj; second definition ignored
+ThreatObject.obj : warning LNK4006: "struct SDL_Surface * g_object" (?g_object@@3PAUSDL_Surface@@A) already defined in AmoObject.obj; second definition ignored
+C:\Users\84918\Desktop\hk3 năm 1\OOP\Do_An\Gun_pow\Debug\Do_An_Cuoi_Ky.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Do_An_Cuoi_Ky.vcxproj -> C:\Users\84918\Desktop\hk3 năm 1\OOP\Do_An\Gun_pow\Debug\Do_An_Cuoi_Ky.exe
